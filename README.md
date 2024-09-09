@@ -24,5 +24,6 @@ I am a Machine Learning Engineer with over 2 years of experience developing scal
 ![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanup6663&show_icons=true&theme=dark)
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/bhanu-prakash-v-b9700156/)
-- [GitHub](https://github.com/bhanup6663)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanu-prakash-v-b9700156/)](https://www.linkedin.com/in/bhanu-prakash-v-b9700156/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/bhanup6663)](https://github.com/bhanup6663)
