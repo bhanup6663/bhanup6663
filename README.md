@@ -33,9 +33,6 @@ I am a Machine Learning Engineer with over 2 years of experience developing scal
 
 - ![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified Solutions Architect - Associate**
 - ![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) **Microsoft Certified: Azure Fundamentals**
-- ![Azure Data Engineer](https://img.shields.io/badge/Microsoft%20Azure%20Data%20Engineer-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) **Microsoft Certified: Azure Data Engineer Associate**
-- ![Databricks](https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer-FF3621?style=flat-square&logo=databricks&logoColor=white) **Databricks Certified Data Engineer Associate**
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) **Power BI Specialist**
 
 ---
 
