@@ -60,8 +60,8 @@ I am a Machine Learning Engineer with over 2 years of experience developing scal
 
 ### 🎓 Certifications
 
-- ![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) **AWS Certified Solutions Architect - Associate**
-- ![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) **Microsoft Certified: Azure Fundamentals**
+ ![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+ ![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 
 ---
 
