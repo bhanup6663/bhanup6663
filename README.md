@@ -1,6 +1,6 @@
 # Hi, I'm Bhanu Prakash Vattikuti 👋
 
-I am a Machine Learning Engineer with over 2 years of experience developing scalable AI solutions. I specialize in designing, training, and optimizing deep learning models for healthcare, traffic monitoring, and other real-world applications. Currently, I am focused on working with **Agentic Retrieval-Augmented Generation (RAG)** models.
+I am a Machine Learning Engineer with over 4 years of experience developing scalable AI solutions. I specialize in designing, training, and optimizing deep learning models for healthcare, traffic monitoring, and other real-world applications. Currently, I am focused on working with **Agentic Retrieval-Augmented Generation (RAG)** models.
 
 ---
 
