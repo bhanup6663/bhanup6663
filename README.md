@@ -61,7 +61,9 @@ I am a Machine Learning Engineer with over 4 years of experience developing scal
 ### 🎓 Certifications
 
  ![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+ ![AWS](https://img.shields.io/badge/AWS%20Machine%20Learning%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+ 
 
 ---
 
