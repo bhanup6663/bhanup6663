@@ -8,7 +8,7 @@ I am a Machine Learning Engineer with over 4 years of experience developing scal
 🌱 I’m currently working on developing **Agentic RAG models**.  
 💼 I have experience deploying machine learning models, building data pipelines, and integrating AI systems into production environments.  
 💬 Ask me about **ML Engineering**, **AI solutions**, or **Data Science**.  
-📫 How to reach me: [bhanu.vattikuti@hotmail.com](mailto:bhanu.vattikuti@hotmail.com)  
+📫 How to reach me: [bhanu.vattikuti@hotmail.com](mailto:bhanuprakash.vattikuti@gmail.com)  
 ⚡ Fun fact: I love solving complex real-world problems through AI and ML innovations.
 
 ---
